@@ -71,6 +71,4 @@ $isLoggedIn = isset($_SESSION['user_id']);
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 </html>
-<!-- <! -- yesma yo push garey hai ta maile > -->
-<!-- yo maile push gari sakya xa hai -->
-<!-- so code copy garera paste garnu parena -->
+
